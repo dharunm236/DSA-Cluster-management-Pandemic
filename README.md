@@ -47,7 +47,6 @@ This project is a simulation of a pandemic control system using various algorith
 
 - : Main script containing the logic for the pandemic control system.
 - : Sample input file with commands to be executed.
-- `requirements.txt`: List of dependencies required for the project.
 
 ## Classes and Methods
 
@@ -78,9 +77,6 @@ Represents a state node with the following attributes:
 - `reach_all_cities(state)`: Ensures all cities in the state are reachable.
 - `visualisation()`: Visualizes the network of cities and the spread of infection.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 

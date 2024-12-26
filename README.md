@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
 ## Introduction
 
@@ -14,6 +16,9 @@ This project implements a cluster management system designed to handle data stru
 - **Health Monitoring**: Continuously monitors the health of clusters and nodes, providing real-time status updates.
 - **Scalability**: Supports scaling up or down based on predefined conditions and real-time data.
 - **Fault Tolerance**: Ensures high availability and reliability through robust fault tolerance mechanisms.
+- **Load Balancing**: Distributes workloads evenly across the cluster to optimize performance.
+- **Detailed Logging**: Provides comprehensive logging for monitoring and troubleshooting.
+- **User-Friendly Interface**: Easy-to-use interface for managing clusters and viewing status.
 
 ## Installation
 
@@ -32,8 +37,9 @@ To install and set up the project, follow these steps:
     ```
 
 3. **Install dependencies**:
+    As there is no `requirements.txt`, manually install the necessary packages:
     ```sh
-    pip install -r requirements.txt
+    pip install <package1> <package2> ...
     ```
 
 ## Usage

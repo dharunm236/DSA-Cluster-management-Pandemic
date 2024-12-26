@@ -20,10 +20,7 @@ This project is a simulation of a pandemic control system using various algorith
     ```sh
     cd pandemic-control-system
     ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 
